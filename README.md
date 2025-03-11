@@ -1,4 +1,4 @@
-# Excel Salary Dashboard
+# Excel Data Jobs Salary Dashboard
 
 ![1_Salary_Dashboard_Final_Dashboard](https://github.com/user-attachments/assets/09d52a47-1c87-49c7-8e89-9e9f68aca1eb)
 
