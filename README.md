@@ -43,7 +43,7 @@ The dataset used for this project contains real-world data science job informati
 
 #### 🗺️ Country Median Salaries - Map Chart
 
-![image](https://github.com/user-attachments/assets/3055e076-49a8-4c44-8bf3-4e1ea30a874f)
+![1_Salary_Dashboard_Country_Map](https://github.com/user-attachments/assets/dbfb942c-365f-4ed0-babe-173cfc931132)
 
 - 🛠️ **Excel Features:** Utilized Excel's map chart feature to plot median salaries globally.
 - 🎨 **Design Choice:** Color-coded map to visually differentiate salary levels across regions.
@@ -74,11 +74,11 @@ IF(
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Screenshot1.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot1.png)
+![image](https://github.com/user-attachments/assets/eea09066-6e69-42c1-ba43-2fe68579063e)
 
 📉 Dashboard Implementation
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Job_Title.png" width="400" height="500" alt="Salary Dashboard Title">
+![image](https://github.com/user-attachments/assets/810041f0-0c1f-4926-a3ba-d35bcd4b5327)
 
 #### ⏰ Count of Job Schedule Type
 
@@ -91,11 +91,11 @@ IF(
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Type.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot2.png)
+![image](https://github.com/user-attachments/assets/e5f5b092-9de1-4864-93cf-502bb420a96d)
 
 📉 Dashboard Implementation:
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Type.png" width="350" height="500" alt="Salary Dashboard Type">
+![image](https://github.com/user-attachments/assets/e67e71d3-7376-4954-95cc-803357f95dba)
 
 ### ❎ Data Validation
 
@@ -106,7 +106,7 @@ IF(
     - 🚫 Incorrect or inconsistent entries are prevented
     - 👥 Overall usability of the dashboard is enhanced
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Data_Validation.gif" width="425" height="400" alt="Salary Dashboard Data Validation">
+![1_Salary_Dashboard_Data_Validation](https://github.com/user-attachments/assets/85e8bc1e-05f5-4a05-8c43-e8a77f3e9b31)
 
 ## Conclusion
 
