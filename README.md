@@ -1,6 +1,6 @@
 # Excel Salary Dashboard
 
-![excel gif](https://github.com/user-attachments/assets/bcc51ac0-67ad-4230-affa-a52f87041664)
+![1_Salary_Dashboard_Final_Dashboard](https://github.com/user-attachments/assets/09d52a47-1c87-49c7-8e89-9e9f68aca1eb)
 
 ## Introduction
 
@@ -34,7 +34,7 @@ The dataset used for this project contains real-world data science job informati
 
 #### 📊 Data Science Job Salaries - Bar Chart
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Chart1.png" width="850" height="550" alt="Salary Dashboard Chart1">
+![image](https://github.com/user-attachments/assets/24f070ff-6269-4923-8a42-a861963be131)
 
 - 🛠️ **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
 - 🎨 **Design Choice:** Horizontal bar chart for visual comparison of median salaries.
@@ -43,7 +43,7 @@ The dataset used for this project contains real-world data science job informati
 
 #### 🗺️ Country Median Salaries - Map Chart
 
-![1_Salary_Dashboard_Chart2.png](/0_Resources/Images/1_Salary_Dashboard_Country_Map.gif)
+![image](https://github.com/user-attachments/assets/3055e076-49a8-4c44-8bf3-4e1ea30a874f)
 
 - 🛠️ **Excel Features:** Utilized Excel's map chart feature to plot median salaries globally.
 - 🎨 **Design Choice:** Color-coded map to visually differentiate salary levels across regions.
